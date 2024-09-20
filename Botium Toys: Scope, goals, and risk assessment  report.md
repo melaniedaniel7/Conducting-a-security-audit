@@ -2,7 +2,9 @@
 
 Disclaimer: 
 
-### Scope and goals of the audit
+<h1><span style="color:#FFD1DC;">Pastel Pink Heading</span></h1> 
+
+### Scope and goals of the audit 
 #### Scope: 
 The scope of this audit is defined as the entire security program at Botium
 Toys. This includes their assets like employee equipment and devices, their internal
