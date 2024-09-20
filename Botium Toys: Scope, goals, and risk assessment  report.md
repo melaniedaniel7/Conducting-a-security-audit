@@ -1,8 +1,6 @@
 # Botium Toys: Scope, goals, and risk assessment report
 
-Disclaimer: 
-
-<h1><span style="color:#FFD1DC;">Pastel Pink Heading</span></h1> 
+Disclaimer: This scenario was provided to me by Corseara as part of the Google cybersecurity professional certificate program and part of their portfolio activity.
 
 ### Scope and goals of the audit 
 #### Scope: 
