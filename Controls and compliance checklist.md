@@ -1,6 +1,7 @@
 # Controls and compliance checklist
 
 ### Controls assessment checklist
+Below is a cheaklist showing which controls Botium Toys currently has in place.
 - ❌ Least Privilege
 - ❌ Disaster recovery plans
 - ✅ Password policies (could be improved)
@@ -17,6 +18,7 @@
 - ✅ Fire detection/prevention (fire alarm, sprinkler system, etc.)
 
 ### Compliance checklist
+Below is a cheaklist showing which compliance best practices Botium Toys currently adhere to.
 #### Payment Card Industry Data Security Standard (PCI DSS)
 - ❌ Only authorized users have access to customers’ credit card information.
 - ❌ Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment.
