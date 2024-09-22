@@ -32,7 +32,7 @@ There were a lot of compliances that Botium Toys' did not have in place includin
 - Sensitive data (PII/SPII) is not confidential/private (SOC).
 - Data is not only available to authorized individuals (SOC).
 
-Therefore, to address compliance gaps, Botium Toys must implement controls such as Least Privilege, separation of duties, and encryption. Additionally, the company should ensure proper classification of its assets to identify further controls that may be necessary to enhance its security posture and better safeguard sensitive information.”
+Therefore, to address compliance gaps, Botium Toys must implement controls such as Least Privilege, separation of duties, and encryption. Additionally, the company should ensure proper classification of its assets to identify further controls that may be necessary to enhance its security posture and better safeguard sensitive information.
 
 
 
