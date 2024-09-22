@@ -1,6 +1,6 @@
 # Botium Toys: Scope, goals, and risk assessment report
 
-Disclaimer: This scenario was provided to me by Corseara as part of the Google cybersecurity professional certificate program and part of their portfolio activity.
+Disclaimer: This scenario was provided to me by Coursera as part of the Google cybersecurity professional certificate program and part of their portfolio activity.
 
 ### Scope and goals of the audit 
 #### Scope: 
