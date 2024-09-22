@@ -21,7 +21,7 @@ Other recommendation that I would make regarding controls for Botium Toys' is to
 - Encryption: Provide confidentiality to sensitive information
 - Password Management System: Reduce password fatigue
 
-There were a lot of compliances that Botium Toys' did not have in place including:
+There were a lot of compliances that Botium Toys' did not have in place, including:
 - Unauthorized users have access to customers’ credit card information (PCI DSS).
 - Credit card information is not stored, accepted, processed, and transmitted securely (PCI DSS).
 - Data encryption procedures for credit card transaction touchpoints is not implemented (PCI DSS).
