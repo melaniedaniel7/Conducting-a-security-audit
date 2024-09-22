@@ -1,6 +1,6 @@
 # Conducting-a-security-audit
 
-"Security audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets." 
+"Security audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets". 
 
 In this portfolio project provided by Google through Corsera I considered risks to Botium Toys’ customers, employees, and/or assets, based on controls and compliance best practices that are or are not currently implemented.
 
