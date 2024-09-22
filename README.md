@@ -2,11 +2,11 @@
 
 "Security audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets". 
 
-In this portfolio project provided by Google through Corsera I considered risks to Botium Toys’ customers, employees, and/or assets, based on controls and compliance best practices that are or are not currently implemented.
+In this portfolio project provided by Google through Coursera I considered risks to Botium Toys’ customers, employees, and/or assets, based on controls and compliance best practices that are or are not currently implemented.
 
 Please refer to the Controls and compliance checklist file if you would like an overview of the various controls and compliance criteria I assessed. 
 
-Disclaimer: This assessment and summary was done using a control and compliance document of various categories and criteria provided to me by Google through the Corseara learning platform.
+Disclaimer: This assessment and summary was done using a control and compliance document of various categories and criteria provided to me by Google through the Coursera learning platform.
 
 After conducting an analysis of the controls and compliance criteria currently in place and currently not in place I found that there were two controls that were not implemented properly, there were seven controls that were not implemented at all, and nine compliances that were not implemented.
 
