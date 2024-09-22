@@ -4,13 +4,13 @@
 Below is a cheaklist showing which controls Botium Toys currently has in place.
 - ❌ Least Privilege
 - ❌ Disaster recovery plans
-- ✅ Password policies (could be improved) *No
+- ✅ Password policies (needs to be improved)
 - ❌ Separation of duties
 - ✅ Firewall
-- ✅ Intrusion detection system (IDS) *No
+- ❌ Intrusion detection system (IDS) 
 - ❌ Backups
 - ✅ Antivirus software
-- ✅ Manual monitoring, maintenance, and intervention for legacy systems (could be improved) *No
+- ✅ Manual monitoring, maintenance, and intervention for legacy systems (needs to be improved)
 - ❌ Encryption
 - ❌ Password management system
 - ✅ Locks (offices, storefront, warehouse)
@@ -27,7 +27,7 @@ Below is a cheaklist showing which compliance best practices Botium Toys current
 #### General Data Protection Regulation (GDPR)
 - ❌ E.U. customers’ data is kept private/secured.
 - ✅ There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach.
-- ✅ Ensure data is properly classified and inventoried. *No
+- ❌ Ensure data is properly classified and inventoried. 
 - ✅ Enforce privacy policies, procedures, and processes to properly document and maintain data.
 #### System and Organizations Controls (SOC type 1, SOC type 2)
 - ❌ User access policies are established.
