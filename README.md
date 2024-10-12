@@ -6,7 +6,7 @@ In this portfolio project provided by Google through Coursera I considered risks
 
 Please refer to the Controls and compliance checklist file if you would like an overview of the various controls and compliance criteria I assessed. 
 
-Disclaimer: This assessment and summary was done using a control and compliance document of various categories and criteria provided to me by Google through the Coursera learning platform.
+Disclaimer: This project was created as part of my learning journey through the Google Professional Cybersecurity Certificate offered on Coursera. Some activities and content within this project were provided by the course as part of my coursework. All credit for such content belongs to Google and Coursera, and I acknowledge their role in supporting the completion of this project.
 
 After conducting an analysis of the controls and compliance criteria currently in place and currently not in place I found that there were two controls that were not implemented properly, there were seven controls that were not implemented at all, and nine compliances that were not implemented.
 
