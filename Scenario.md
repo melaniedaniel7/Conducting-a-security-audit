@@ -1,6 +1,6 @@
 # Scenario
 
-Disclaimer: This scenario was provided to me by Coursera as part of the Google cybersecurity professional certificate program and part of their portfolio activity.
+Disclaimer: This project was created as part of my learning journey through the Google Professional Cybersecurity Certificate offered on Coursera. Some activities and content within this project were provided by the course as part of my coursework. All credit for such content belongs to Google and Coursera, and I acknowledge their role in supporting the completion of this project.
 
 <img src="https://media.giphy.com/media/TZ539qBmtzNFFgAwly/giphy.gif?cid=ecf05e47zn96slrl3ux9t3hpu2pre19pj7aeba4p9kk7jwrc&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" />
 
