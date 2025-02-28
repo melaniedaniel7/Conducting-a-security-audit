@@ -8,6 +8,8 @@ Please refer to the Controls and compliance checklist file if you would like an 
 
 Disclaimer: This project was created as part of my learning journey through the Google Professional Cybersecurity Certificate offered on Coursera. Some activities and content within this project were provided by the course as part of my coursework. All credit for such content belongs to Google and Coursera, and I acknowledge their role in supporting the completion of this project.
 
+<img src="" width="400" />
+
 After conducting an analysis of the controls and compliance criteria currently in place and currently not in place I found that there were two controls that were not implemented properly, there were seven controls that were not implemented at all, and nine compliances that were not implemented.
 
 I therefore reccomend that Botium Toys' update the password polices and manual monitoring for legacy systems that they currently have in place for their controls. Although password policies are in place they do not adhere to having at least eight
